@@ -10,6 +10,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "playwright": "^1.14.1"
+    "axios": "^0.21.1",
+    "mongoose": "^6.0.2",
+    "playwright": "^1.14.1",
+    "retry-axios": "^2.6.0",
+    "why-is-node-running": "^2.2.0"
   }
 }
