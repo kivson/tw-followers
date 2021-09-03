@@ -13,7 +13,4 @@ node index.js
 ```
 
 ## Video
-
-<figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/J9phcP2Uv7c" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
+Vaja mais detalhes no [Youtube](https://www.youtube.com/watch?v=J9phcP2Uv7c)
